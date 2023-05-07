@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+.btn {
+	background-color: rgb(101, 50, 148);
+	border: none;
+	padding: 10px 20px;
+	color: white;
+}
+
+body {
+	background-color: rbg(158, 83, 227);
+}
+
+.btns {
+	position: absolute;
+	height: 100vh;
+	width: 100%;
+	display: flex;
+	justfy-content: center;
+	align-items: center;
+	gap: 10px;
+}
